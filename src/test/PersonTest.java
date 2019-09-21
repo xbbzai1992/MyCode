@@ -9,6 +9,7 @@ public class PersonTest {
     @Test
     public void show() throws Exception {
         System.out.println("A new testDemo");
+        System.out.println("Hi");
     }
 
 }
