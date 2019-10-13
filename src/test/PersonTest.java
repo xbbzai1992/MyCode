@@ -10,6 +10,7 @@ public class PersonTest {
     public void show() throws Exception {
         System.out.println("A new testDemo");
         System.out.println("Hi");
+        System.out.println("Success");
     }
 
 }
